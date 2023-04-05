@@ -2,22 +2,22 @@
 
 ![Book](https://img.rawpixel.com/private/static/images/website/2022-05/sv159407-image-kwvx72ae.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=6da65057b0cd18ca5c2c509a319d6316)
 
-You can always improve to reach your full potential
+> You can always improve to reach your full potential
 
 ## Major
 
 Visual Communication Design
 
 ## Skills
-HTML
-CSS
-JS
-SVG
+* HTML
+* CSS
+* JS
+* SVG
 
 ## Hobbies
-Study Self-Improvement and success stories
-Golf
-Video games
+* Study Self-Improvement and success stories
+* Golf
+* Video games
 
 <!--
 **Speedy1414/Speedy1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
