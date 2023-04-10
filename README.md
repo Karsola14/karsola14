@@ -18,10 +18,6 @@ Visual Communication Design (VCD)
 * JS
 * SVG
 
-## Projects
-
-[Emoji Face Animation](https://codepen.io/Ksly1/project/editor/AOvNzk)
-
 ## Hobbies
 * Study Self-Improvement and success stories
 * Golf
