@@ -4,15 +4,23 @@
 
 > You can always improve to reach your full potential
 
+## Biography
+
+Karson Sly is a currently active student at Eastern Washington University and has attended since the fall of 2020. Karson is majoring in Visual Communication Design (VCD) as well as striving for a certificate in User Experience Design (UX). If you only had to give a few word description of Karson; that would be: always improve.
+
 ## Major
 
-Visual Communication Design
+Visual Communication Design (VCD)
 
 ## Skills
 * HTML
 * CSS
 * JS
 * SVG
+
+## Projects
+
+[Emoji Face Animation](https://codepen.io/Ksly1/project/editor/AOvNzk)
 
 ## Hobbies
 * Study Self-Improvement and success stories
